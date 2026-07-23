@@ -14212,7 +14212,7 @@ export const mundiales = [
                         visitante: "Perú",
                         resultado: "1-0",
                         fecha: "21/06/2018",
-                        goles: "Mbappé",
+                        goles: "Francia: Mbappé",
                         highlights: "https://www.youtube.com/watch?v=9-QIE-xaueo"
                     },
                     {
