@@ -427,7 +427,7 @@ export const mundiales = [
                 visitante: "Egipto",
                 resultado: "4-2",
                 fecha: "27/05/1934",
-                goles: "Hungría: Teleki, Toldi(2), Vincze; Egipto: Fawzi",
+                goles: "Hungría: Teleki, Toldi(2), Vincze; Egipto: Fawzi(2)",
                 highlights: "https://www.youtube.com/watch?v=1jun-30nIdI"
             },
             {
