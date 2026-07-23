@@ -6238,7 +6238,7 @@ export const mundiales = [
             resultado: "3-1",
             fecha: "11/06/1982",
             goles: "Italia: Rossi, Tardelli, Altobelli; Alemania Federal: Breitner",
-            highlights: "https://youtu.be/Tv4SDyOBB9E?si=XJZKvtNZ51CSeANk"
+            highlights: "https://www.youtube.com/watch?v=aUYD4joNuvs"
         },
     },
     {
