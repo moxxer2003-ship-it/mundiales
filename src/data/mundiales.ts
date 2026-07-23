@@ -1679,7 +1679,7 @@ export const mundiales = [
             resultado: "3-2",
             fecha: "04/07/1954",
             goles: "Alemania Federal: Morlock, Rahn(2); Hungría: Puskás, Czibor",
-            highlights: "https://youtu.be/7KQc2W8DNog?si=4QpUXenIFGOC3mnb"
+            highlights: "https://www.youtube.com/watch?v=UDDZ_XLvAds"
         },
     },
     {
