@@ -658,7 +658,7 @@ export const mundiales = [
                 resultado: "1-3",
                 fecha: "12/06/1938",
                 goles: "Francia: Heisserer; Italia: Colaussi, Piola(2)",
-                hihglights: "https://www.youtube.com/watch?v=xy8IWUsdrMA&t=307s"
+                highlights: "https://www.youtube.com/watch?v=lyxXpR67uNQ"
             },
             {
                 local: "Brasil",
