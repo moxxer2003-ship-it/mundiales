@@ -8,7 +8,7 @@ export const records = {
     paísSinGolesRecibidosEnUnMundial: "Suiza (no le anotaron ni un gol en Alemania 2006: se despidió en octavos de final tras empatar 0-0 con Ucrania, perdiendo en la tanda de penales",
     paísConMayorRachaDePartidosInvictos: "Países Bajos (16: no pierde desde la final de Sudáfrica 2010)",
     paísConMásGolesEnUnMundial: "Hungría (27 goles en Suiza 1954)",
-    paísConMasLocalías: "México (3: 1970, 1986 y 2026)",
+    paísConMásLocalías: "México (3: 1970, 1986 y 2026)",
     jugadorConMásMundialesGanados: "Pelé (3: 1958, 1962 y 1970)",
     máximoGoleador: "Mbappé(22)",
     jugadorConMásAutogoles: "Hany(2)",
