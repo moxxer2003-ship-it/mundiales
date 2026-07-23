@@ -9007,7 +9007,7 @@ export const mundiales = [
                         resultado: "0-1",
                         fecha: "12/06/1998",
                         goles: "Dinamarca: Rieper",
-                        highlights: ""
+                        highlights: "https://www.youtube.com/watch?v=EfcSTodNdQI"
                     },
                     {
                         local: "Francia",
