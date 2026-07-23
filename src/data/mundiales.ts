@@ -15007,7 +15007,7 @@ export const mundiales = [
                         resultado: "0-2",
                         fecha: "20/11/2022",
                         goles: "Ecuador: Valencia(2)",
-                        highlights: ""
+                        highlights: "https://www.youtube.com/watch?v=b7X1YkrkUHA"
                     },
                     {
                         local: "Senegal",
