@@ -17333,7 +17333,7 @@ export const mundiales = [
                 visitante: "Suecia",
                 resultado: "3-0",
                 fecha: "30/06/2026",
-                goles: "Mbappé(2), Barcola",
+                goles: "Francia: Mbappé(2), Barcola",
                 highlights: "https://www.youtube.com/watch?v=A7pgChEIFTg"
             },
             {
