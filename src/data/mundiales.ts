@@ -6560,7 +6560,7 @@ export const mundiales = [
                         resultado: "6-0",
                         fecha: "02/06/1986",
                         goles: "Unión Soviética: Yakovenko, Aléinikov, Belánov, Yaremchuk, Dajka(GEC), Rodionov",
-                        highlights: ""
+                        highlights: "https://www.youtube.com/watch?v=KMtBKLEkLq0&t=353s"
                     },
                     {
                         local: "Francia",
