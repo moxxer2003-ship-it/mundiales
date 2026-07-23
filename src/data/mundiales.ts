@@ -12933,7 +12933,7 @@ export const mundiales = [
                         visitante: "Croacia",
                         resultado: "3-1",
                         fecha: "12/06/2014",
-                        goles: "Brasil: Neymar(2), Oscar: Croacia: Marcelo(GEC)",
+                        goles: "Brasil: Neymar(2), Oscar; Croacia: Marcelo(GEC)",
                         highlights: "https://www.youtube.com/watch?v=AbIAciWGgmQ"
                     },
                     {
