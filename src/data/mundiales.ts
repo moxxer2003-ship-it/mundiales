@@ -7765,7 +7765,7 @@ export const mundiales = [
                 visitante: "Argentina",
                 resultado: "0-1",
                 fecha: "24/06/1990",
-                goles: "Argentina Caniggia",
+                goles: "Argentina: Caniggia",
                 highlights: "https://www.youtube.com/watch?v=BmWPolw_P_8"
             },
             {
