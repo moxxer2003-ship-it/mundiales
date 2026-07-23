@@ -2233,7 +2233,7 @@ export const mundiales = [
             resultado: "2-5",
             fecha: "29/06/1958",
             goles: "Suecia: Liedholm, Simonsson; Brasil: Vavá(2), Pelé(2), Zagallo",
-            highlights: "https://youtu.be/JE2xPzeSiBc?si=qWqPdARAbWbnq0Ki"
+            highlights: "https://www.youtube.com/watch?v=Eb-YIfxFrMY"
         },
     },
     {
