@@ -15224,7 +15224,8 @@ export const mundiales = [
                         visitante: "Arabia Saudita",
                         resultado: "1-2",
                         fecha: "22/11/2022",
-                        goles: "Argentina: Messi; Arabia Saudita: Al-Shehri, Al-Dawsari"
+                        goles: "Argentina: Messi; Arabia Saudita: Al-Shehri, Al-Dawsari",
+                        highlights: "https://www.youtube.com/watch?v=spLV1gF0fkI"
                     },
                     {
                         local: "México",
