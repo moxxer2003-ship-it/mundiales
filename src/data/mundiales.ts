@@ -17382,7 +17382,7 @@ export const mundiales = [
                 visitante: "Croacia",
                 resultado: "2-1",
                 fecha: "02/07/2026",
-                goles: "Porugal: Ronaldo, Ramos; Croacia: Perišić",
+                goles: "Portugal: Ronaldo, Ramos; Croacia: Perišić",
                 highlights: "https://www.youtube.com/watch?v=jxU1VT5YXXE"
             },
             {
