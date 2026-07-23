@@ -1,7 +1,7 @@
 export const records = {
     paísConMásMundialesDisputados: "Brasil(23: único país en disputar todas las Copas del Mundo)",
     paísConMásMundialesGanados: "Brasil(5: 1958, 1962, 1970, 1994 y 2002)",
-    paísConMásMundialesGanadosDeFormaConsecutiva: "Italia y Brasil (2)",
+    paisesConMásMundialesGanadosDeFormaConsecutiva: "Italia y Brasil (2)",
     paísConMásPartidosJugados: "Brasil(119)",
     paísConMásPartidosGanados: "Brasil(79)",
     paísConMásGoles: "Brasil(247)",
