@@ -9014,7 +9014,7 @@ export const mundiales = [
                         visitante: "Sudáfrica",
                         resultado: "3-0",
                         fecha: "12/06/1998",
-                        golers: "Francia: Dugarry, Issa(GEC), Henry",
+                        goles: "Francia: Dugarry, Issa(GEC), Henry",
                         highlights: "https://www.youtube.com/watch?v=RM64e5Duib0"
                     },
                     {
