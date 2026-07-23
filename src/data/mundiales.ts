@@ -7301,7 +7301,7 @@ export const mundiales = [
                         visitante: "Unión Soviética",
                         resultado: "0-4",
                         fecha: "18/06/1990",
-                        goes: "Unión Soviética: Protásov, Zigmantóvich, Zavárov, Dobrovolski",
+                        goles: "Unión Soviética: Protásov, Zigmantóvich, Zavárov, Dobrovolski",
                         highlights: "https://www.youtube.com/watch?v=ELvF7dNzsC8"
                     },
                 ]
