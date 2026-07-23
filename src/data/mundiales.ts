@@ -378,7 +378,7 @@ export const mundiales = [
             visitante: "Argentina",
             resultado: "4-2",
             fecha: "30/07/1930",
-            goles: "Urguay: Dorado, Cea, Iriarte, Castro ; Argentina: Peucelle, Stábile",
+            goles: "Uruguay: Dorado, Cea, Iriarte, Castro ; Argentina: Peucelle, Stábile",
             highlights: "https://www.youtube.com/watch?v=3gELBavbzWQ&t=40s"
         },
     },
