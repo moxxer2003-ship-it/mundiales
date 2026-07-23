@@ -1,0 +1,360 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: #080d21;
+    background-image:
+            radial-gradient(at 0% 0%, rgba(22, 41, 90, 0.5) 0px, transparent 50%),
+            radial-gradient(at 100% 100%, rgba(16, 33, 63, 0.8) 0px, transparent 50%);
+    color: #f8fafc;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+.home {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 20px 24px 80px 24px;
+    position: relative;
+}
+
+/* --- Ambient Glows --- */
+.bg-glow {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    filter: blur(120px);
+    z-index: -1;
+    pointer-events: none;
+}
+.glow-1 {
+    top: 50px;
+    left: 5%;
+    background: rgba(255, 215, 0, 0.15);
+}
+.glow-2 {
+    top: 400px;
+    right: 5%;
+    background: rgba(30, 64, 175, 0.25);
+}
+
+/* --- Hero Section --- */
+.hero-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px 0 60px 0;
+}
+
+.badge-hero {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(255, 215, 0, 0.1);
+    border: 1px solid rgba(255, 215, 0, 0.3);
+    color: #ffd700;
+    padding: 6px 16px;
+    border-radius: 100px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    margin-bottom: 24px;
+    text-transform: uppercase;
+}
+
+.badge-hero .dot {
+    width: 6px;
+    height: 6px;
+    background-color: #ffd700;
+    border-radius: 50%;
+    box-shadow: 0 0 8px #ffd700;
+}
+
+.titulo {
+    font-size: clamp(36px, 5vw, 64px);
+    font-weight: 800;
+    line-height: 1.1;
+    margin: 0;
+    letter-spacing: -1px;
+    color: #ffffff;
+}
+
+.gold-text {
+    background: linear-gradient(135deg, #fff2a3 0%, #ffd700 50%, #cca100 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+
+.descripcion {
+    margin-top: 20px;
+    font-size: 18px;
+    max-width: 720px;
+    color: #94a3b8;
+    line-height: 1.6;
+    font-weight: 400;
+}
+
+/* --- Contenedor de Copas (Tamaño Unificado) --- */
+.hero-copas-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 60px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+
+.copa-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+/* Igualación estricta de tamaño de imagen */
+.copa-wrapper {
+    width: 180px;
+    height: 280px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    filter: drop-shadow(0 15px 25px rgba(255, 215, 0, 0.2));
+    transition: transform 0.4s ease, filter 0.4s ease;
+}
+
+.copa {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    animation: flotar 5s infinite ease-in-out;
+}
+
+.copa-card.derecha .copa {
+    animation-delay: -2.5s;
+}
+
+.copa-card:hover .copa-wrapper {
+    transform: translateY(-10px) scale(1.05);
+    filter: drop-shadow(0 20px 35px rgba(255, 215, 0, 0.4));
+}
+
+.copa-label {
+    font-size: 13px;
+    color: #cbd5e1;
+    font-weight: 600;
+    background: rgba(255, 255, 255, 0.05);
+    padding: 6px 14px;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+@keyframes flotar {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-14px); }
+}
+
+/* --- Headers de Sección --- */
+.section-header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.section-header h2 {
+    font-size: 32px;
+    font-weight: 700;
+    margin: 8px 0;
+    color: #f8fafc;
+}
+
+.section-header p {
+    color: #94a3b8;
+    font-size: 16px;
+}
+
+.sub-badge {
+    color: #ffd700;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+/* --- Lista de Mundiales (Cards Glassmorphism Pro) --- */
+.seccion-mundiales {
+    margin-top: 60px;
+}
+
+.listaMundiales {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 24px;
+}
+
+.card-mundial {
+    background: rgba(15, 23, 42, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: column;
+}
+
+.card-mundial:hover {
+    transform: translateY(-6px);
+    border-color: rgba(255, 215, 0, 0.4);
+    box-shadow: 0 12px 30px -10px rgba(0, 0, 0, 0.5), 0 0 20px rgba(255, 215, 0, 0.15);
+}
+
+.card-img-container {
+    position: relative;
+    width: 100%;
+    height: 160px;
+    overflow: hidden;
+}
+
+.card-img-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.card-mundial:hover .card-img-container img {
+    transform: scale(1.08);
+}
+
+.year-badge {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    background: rgba(8, 13, 33, 0.85);
+    backdrop-filter: blur(8px);
+    color: #ffd700;
+    font-weight: 800;
+    font-size: 16px;
+    padding: 4px 12px;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 215, 0, 0.3);
+}
+
+.card-info {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.card-info h3 {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.ver-mas-link {
+    font-size: 14px;
+    color: #ffd700;
+    font-weight: 600;
+    transition: transform 0.2s ease;
+}
+
+.card-mundial:hover .ver-mas-link {
+    transform: translateX(4px);
+}
+
+/* --- Sección de Récords --- */
+.seccion-records {
+    margin-top: 100px;
+}
+
+.titulo-records {
+    font-size: 36px;
+    color: #ffffff;
+    margin-top: 6px;
+}
+
+.grid-records {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.card-record {
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    padding: 24px;
+    display: flex;
+    align-items: flex-start;
+    gap: 18px;
+    transition: all 0.3s ease;
+}
+
+.card-record:hover {
+    background: rgba(255, 255, 255, 0.06);
+    border-color: rgba(255, 215, 0, 0.3);
+    transform: translateY(-4px);
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+}
+
+.icon-badge {
+    background: rgba(255, 215, 0, 0.1);
+    border: 1px solid rgba(255, 215, 0, 0.2);
+    width: 44px;
+    height: 44px;
+    min-width: 44px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.record-content {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.card-record h3 {
+    margin: 0;
+    font-size: 15px;
+    color: #ffd700;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.card-record p {
+    margin: 0;
+    font-size: 14px;
+    color: #cbd5e1;
+    line-height: 1.5;
+}
+
+/* --- Responsive Adjustments --- */
+@media (max-width: 768px) {
+    .hero-copas-container {
+        gap: 30px;
+    }
+
+    .copa-wrapper {
+        width: 130px;
+        height: 200px;
+    }
+
+    .listaMundiales, .grid-records {
+        grid-template-columns: 1fr;
+    }
+}

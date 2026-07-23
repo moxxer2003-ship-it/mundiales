@@ -1,0 +1,723 @@
+/* Fondo oscuro */
+.modalOverlay{
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,.75);
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    z-index:9999;
+
+    animation:fadeIn .3s;
+}
+
+/* Ventana */
+.modal{
+
+    width:90%;
+    max-width:1200px;
+
+    max-height:90vh;
+
+    overflow-y:auto;
+
+    background:linear-gradient(
+            180deg,
+            #071830,
+            #0f2d5c
+    );
+
+    border-radius:25px;
+
+    padding:35px;
+
+    color:white;
+
+    position:relative;
+
+    border:3px solid gold;
+
+    box-shadow:
+            0 0 35px gold,
+            0 0 80px rgba(255,215,0,.3);
+
+    animation:zoom .35s;
+}
+
+/* Scroll bonito */
+
+.modal::-webkit-scrollbar{
+
+    width:10px;
+
+}
+
+.modal::-webkit-scrollbar-thumb{
+
+    background:gold;
+
+    border-radius:20px;
+
+}
+
+/* Botón cerrar */
+
+.cerrar{
+
+    position:absolute;
+
+    right:20px;
+
+    top:20px;
+
+    width:45px;
+
+    height:45px;
+
+    border:none;
+
+    border-radius:50%;
+
+    background:#d32f2f;
+
+    color:white;
+
+    font-size:22px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+.cerrar:hover{
+
+    transform:scale(1.15) rotate(180deg);
+
+}
+
+/* Título */
+
+.tituloModal{
+
+    text-align:center;
+
+    color:gold;
+
+    font-size:48px;
+
+    margin-bottom:30px;
+
+    text-shadow:0 0 20px gold;
+
+}
+
+/* Banner */
+
+.banner{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:25px;
+
+    margin-bottom:30px;
+
+    background:rgba(255,255,255,.08);
+
+    border-radius:18px;
+
+    padding:20px;
+
+}
+
+.banner img{
+
+    width:170px;
+
+    height:110px;
+
+    object-fit:cover;
+
+    border-radius:12px;
+
+}
+
+.banner h2{
+
+    font-size:34px;
+
+}
+
+/* Filas */
+
+.filaSuperior,
+.filaInferior{
+
+    display:flex;
+
+    gap:25px;
+
+    margin-bottom:25px;
+
+    flex-wrap:wrap;
+
+}
+
+/* Tarjetas */
+
+.panel{
+
+    flex:1;
+
+    min-width:250px;
+
+    background:rgba(255,255,255,.08);
+
+    border-radius:20px;
+
+    padding:20px;
+
+    text-align:center;
+
+    border:1px solid rgba(255,255,255,.15);
+
+    transition:.3s;
+
+}
+
+.panel:hover{
+
+    transform:translateY(-5px);
+
+    box-shadow:0 0 20px gold;
+
+}
+
+.panel h3{
+
+    color:gold;
+
+    margin-bottom:18px;
+
+}
+
+/* Modifica la regla existente en tu CSS */
+.panel img {
+    width: 100%;
+    max-width: 250px;
+    height: 180px;
+    object-fit: contain; /* Muestra la imagen completa sin recortar */
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+/* Promedio */
+
+.promedio{
+
+    width:120px;
+
+    height:120px;
+
+    border-radius:50%;
+
+    border:5px solid gold;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    font-size:34px;
+
+    font-weight:bold;
+
+    margin:auto;
+
+    margin-bottom:15px;
+
+    color:gold;
+
+}
+
+/* Ranking */
+
+ol{
+
+    padding-left:20px;
+
+    text-align:left;
+
+    font-size:20px;
+
+}
+
+ol li{
+
+    margin:12px 0;
+
+}
+
+/* Curiosidades */
+
+ul{
+
+    text-align:left;
+
+    font-size:18px;
+
+}
+
+ul li{
+
+    margin-bottom:10px;
+
+}
+
+/* Animaciones */
+
+@keyframes fadeIn{
+
+    from{
+
+        opacity:0;
+
+    }
+
+    to{
+
+        opacity:1;
+
+    }
+
+}
+
+@keyframes zoom{
+
+    from{
+
+        transform:scale(.75);
+
+        opacity:0;
+
+    }
+
+    to{
+
+        transform:scale(1);
+
+        opacity:1;
+
+    }
+
+}
+/* Estilos para las Tablas de Posiciones de Grupos */
+.seccionGrupos {
+    margin-top: 20px;
+}
+
+.grupoContenedor {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.grupoContenedor h4 {
+    font-size: 1.3rem;
+    color: #2c3e50;
+    margin-bottom: 10px;
+    border-left: 4px solid #3498db;
+    padding-left: 10px;
+}
+
+.tablaResponsiva {
+    overflow-x: auto;
+    margin-bottom: 15px;
+}
+
+.tablaPosiciones {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 5px;
+    font-size: 0.9rem;
+}
+
+.tablaPosiciones th, .tablaPosiciones td {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+.tablaPosiciones th {
+    background-color: #f8f9fa;
+    color: #555;
+    font-weight: 600;
+}
+
+.tablaPosiciones tr:hover {
+    background-color: #f1f1f1;
+}
+
+.textLeft {
+    text-align: left !important;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/* Partidos de Grupo */
+.partidosGrupo h5 {
+    font-size: 0.95rem;
+    margin: 10px 0 5px 0;
+    color: #7f8c8d;
+}
+
+.partidosGrupo ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.filaPartido {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 12px;
+    background-color: #fdfdfd;
+    border: 1px solid #eaeaea;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    font-size: 0.85rem;
+}
+
+.fechaPartido {
+    color: #95a5a6;
+    font-size: 0.8rem;
+}
+
+/* Estilos para Eliminatorias */
+.seccionEliminatorias {
+    margin-top: 20px;
+    background-color: #fdfdfd;
+}
+
+.faseEliminatoriaContenedor {
+    margin-bottom: 25px;
+}
+
+.faseEliminatoriaContenedor h4 {
+    font-size: 1.15rem;
+    color: #2c3e50;
+    margin-bottom: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.tituloFinal {
+    color: #d35400 !important;
+}
+
+.partidosGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 15px;
+}
+
+.tarjetaPartido {
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 12px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+    text-align: center;
+}
+
+.partidoUnico {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.tarjetaFinal {
+    border: 2px solid #f1c40f;
+    background-color: #fffdf3;
+}
+
+.equiposPartido {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 8px;
+    font-size: 0.95rem;
+}
+
+.resultadoDestacado {
+    background-color: #2c3e50;
+    color: #fff;
+    padding: 3px 10px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    min-width: 45px;
+    text-align: center;
+    margin: 0 10px;
+}
+
+.finalResultado {
+    background-color: #e74c3c;
+    font-size: 1.05rem;
+    padding: 5px 15px;
+}
+/* --- NUEVO: Grilla para mostrar 2 grupos por fila --- */
+.gruposGrid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 25px;
+}
+
+@media (min-width: 850px) {
+    .gruposGrid {
+        grid-template-columns: 1fr 1fr; /* 2 columnas en pantallas medianas/grandes */
+    }
+}
+
+/* --- MODIFICADO: Ajuste del título del grupo para fondo oscuro --- */
+.grupoContenedor h4 {
+    font-size: 1.3rem;
+    color: gold; /* Cambiado a gold para que resalte en el fondo azul oscuro */
+    margin-bottom: 10px;
+    border-left: 4px solid #3498db;
+    padding-left: 10px;
+    text-align: left;
+}
+
+/* --- MODIFICADO: Estilo de las tablas de posiciones --- */
+.tablaPosiciones {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 5px;
+    font-size: 0.9rem;
+    color: #333; /* Forzamos color oscuro para que sea legible en el fondo claro de la tabla */
+    background: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* --- MODIFICADO: Filas de partidos en grupos (Centrado y letras visibles) --- */
+.filaPartido {
+    display: grid;
+    grid-template-columns: 80px 1fr; /* Espacio fijo para fecha, el resto para el partido */
+    align-items: center;
+    padding: 8px 12px;
+    background-color: #fdfdfd;
+    border: 1px solid #eaeaea;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    font-size: 0.85rem;
+    color: #2c3e50; /* Forzamos color oscuro para que los países sean visibles */
+}
+
+.detallePartido {
+    display: flex;
+    justify-content: center; /* Centra el contenido horizontalmente */
+    align-items: center;
+    gap: 10px;
+}
+
+.resultadoMini {
+    background: #2c3e50;
+    color: #fff;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: 0.8rem;
+}
+
+/* --- MODIFICADO: Tarjeta de Eliminatorias (Centrado perfecto y letras visibles) --- */
+.tarjetaPartido {
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 12px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+    text-align: center;
+    color: #2c3e50; /* Forzamos texto oscuro para que los países se vean perfectamente */
+}
+
+/* Centrado con estructura de 3 columnas para que los nombres de los equipos no se desalineen */
+.equiposPartido {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    margin-top: 8px;
+    font-size: 0.95rem;
+}
+
+.equiposPartido span:first-child {
+    text-align: right; /* Alinea el equipo local a la derecha hacia el marcador */
+}
+
+.equiposPartido span:last-child {
+    text-align: left; /* Alinea el equipo visitante a la izquierda hacia el marcador */
+}
+/* Estructura general de la tarjeta de partido */
+.tarjetaPartido {
+    background-color: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    padding: 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.fechaPartido {
+    font-size: 0.8rem;
+    color: #64748b;
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+/* Grilla de 3 columnas para alinear correctamente local, resultado y visitante */
+.estructuraPartido {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    gap: 12px;
+    align-items: start;
+}
+
+.columnaEquipo {
+    display: flex;
+    flex-direction: column;
+}
+
+.columnaEquipo.local {
+    align-items: flex-end;
+    text-align: right;
+}
+
+.columnaEquipo.visitante {
+    align-items: flex-start;
+    text-align: left;
+}
+
+.nombreEquipo {
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: #1e293b;
+}
+
+.columnaResultado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 8px;
+}
+
+.resultadoDestacado {
+    background-color: #f1f5f9;
+    color: #0f172a;
+    font-weight: 800;
+    font-size: 0.95rem;
+    padding: 4px 10px;
+    border-radius: 6px;
+    white-space: nowrap;
+}
+
+/* Columna de Goleadores */
+.listaGoleadores {
+    display: flex;
+    flex-direction: column;
+    margin-top: 6px;
+    gap: 2px;
+}
+
+.jugadorGol {
+    font-size: 0.78rem;
+    color: #475569;
+    line-height: 1.2;
+}
+
+/* Botón Highlights (Cajita roja tipo YouTube) */
+.contenedorHighlights {
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+}
+
+.btnHighlights {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ff0000;
+    color: #ffffff !important;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 6px 14px;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+    box-shadow: 0 2px 4px rgba(255, 0, 0, 0.2);
+}
+
+.btnHighlights:hover {
+    background-color: #cc0000;
+    transform: translateY(-1px);
+}
+
+/* ==================== FILA CULTURAL (Mascota, Canción, Álbum) ==================== */
+.filaCultural {
+    display: flex;
+    gap: 25px;
+    margin-bottom: 25px;
+    flex-wrap: wrap;
+}
+
+/* Nombre destacado de la mascota */
+.nombreMascota {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #ffffff;
+    margin-top: 5px;
+}
+
+/* Contenedor y Botón de YouTube para Canción Oficial */
+.contenedorCancion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 120px;
+}
+
+.btnCancion {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    background-color: #ff0000;
+    color: #ffffff !important;
+    font-size: 0.95rem;
+    font-weight: 700;
+    padding: 12px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(255, 0, 0, 0.4);
+}
+
+.btnCancion:hover {
+    background-color: #cc0000;
+    transform: scale(1.05);
+    box-shadow: 0 6px 16px rgba(255, 0, 0, 0.6);
+}
+
+/* Ajuste específico para la portada del Álbum */
+.imagenAlbum {
+    object-fit: contain !important; /* Para que la portada vertical no se recorte */
+    max-height: 180px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
