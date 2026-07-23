@@ -7086,7 +7086,7 @@ export const mundiales = [
         pelota: "Adidas Etrusco Unico",
         imagenPelota: "https://perufc.com/wp-content/uploads/2022/05/etrusco1990_1.jpg",
         campeon: "Alemania Federal",
-        imagenCampeon: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj22ngptr9rhzBedOk777NG4vMliUcVLpObKl431KBhfHw1OcDiRRNoykhRxOjPApjMfExMkoyurHEBs5T1A0Hlbjf-Tu7f2IeJ9lgOO-6lHKgbLlUXbDoVIVcbIpigV704hFa5MbCqpK0/w1200-h630-p-k-no-nu/TEAM90.jpg",
+        imagenCampeon: "https://www.ole.com.ar/images/2020/06/09/4RDHUn8be_720x0__1.jpg",
         grupos: [
             {
                 grupo: "A",
@@ -7875,7 +7875,7 @@ export const mundiales = [
             resultado: "1-0",
             fecha: "08/07/1990",
             goles: "Alemania Federal: Brehme",
-            highlights: "https://youtu.be/EpEPMlkpUyQ?si=EDyRIz6OkhtXmbVx"
+            highlights: "https://www.youtube.com/watch?v=EpEPMlkpUyQ"
         },
     },
     {
