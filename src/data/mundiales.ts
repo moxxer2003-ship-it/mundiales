@@ -3233,7 +3233,7 @@ export const mundiales = [
         ],
         cuartos: [
             {
-                local: "Iglaterra",
+                local: "Inglaterra",
                 visitante: "Argentina",
                 resultado: "1-0",
                 fecha: "23/07/1966",
