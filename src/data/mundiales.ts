@@ -2770,7 +2770,7 @@ export const mundiales = [
     {
         year: "1966",
         anfitrion: "Inglaterra",
-        imagenAnfitrion: "https://www.inglaterra.ws/wp-content/uploads/2021/10/Bandera-de-Inglaterra-1024x716.jpg",
+        imagenAnfitrion: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/250px-Flag_of_England.svg.png",
         primerosPuestos: [
             "Inglaterra",
             "Alemania Federal",
@@ -15952,7 +15952,7 @@ export const mundiales = [
     {
         year: "2026",
         anfitrion: "México, Estados Unidos, Canadá",
-        imagenAnfitrion: "https://ih1.redbubble.net/image.3746577233.2552/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+        imagenAnfitrion: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp-ZQ1RNfE3dBbzMysdETgdaYQbp7zmmxmmTbnbXN4HVkSsUhQvgN0QHg&s=10",
         primerosPuestos: [
             "España",
             "Argentina",
