@@ -9652,7 +9652,7 @@ export const mundiales = [
                 resultado: "0-1",
                 fecha: "30/06/1998",
                 goles: "Croacia: Šuker",
-                highights: "https://www.youtube.com/watch?v=VY9USlWNCrs"
+                highlights: "https://www.youtube.com/watch?v=VY9USlWNCrs"
             },
             {
                 local: "Argentina",
