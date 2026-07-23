@@ -11188,7 +11188,7 @@ export const mundiales = [
                         visitante: "Irán",
                         resultado: "3-1",
                         fecha: "11/06/2006",
-                        goles: "Méxco: Bravo(2), Zinha; Irán: Golmohammadi",
+                        goles: "México: Bravo(2), Zinha; Irán: Golmohammadi",
                         highlights: "https://www.youtube.com/watch?v=s6Ck67YTzk4"
                     },
                     {
