@@ -1653,7 +1653,7 @@ export const mundiales = [
                 visitante: "Uruguay",
                 resultado: "4-2",
                 fecha: "30/06/1954",
-                goles: "Hungría: Czibor, Hidegkuti, Kocsis; Uruguay: Hohberg",
+                goles: "Hungría: Czibor, Hidegkuti, Kocsis(2); Uruguay: Hohberg(2)",
                 highlights: "https://www.youtube.com/watch?v=eV3l58CLTKc"
             },
             {
