@@ -3245,7 +3245,7 @@ export const mundiales = [
                 visitante: "Corea del Norte",
                 resultado: "5-3",
                 fecha: "23/07/1966",
-                goles: "Portugal: Eusébio(4), Augusto; Corea del Norte: Pak Seung-zin, Li Dong-woon, Yang Song-guk",
+                goles: "Portugal: Eusébio(4), Augusto; Corea del Norte: Pak, Li, Yang",
                 highlights: "https://www.youtube.com/watch?v=a-TggTiOpmM"
             },
             {
