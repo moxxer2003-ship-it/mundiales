@@ -13510,7 +13510,7 @@ export const mundiales = [
                         visitante: "Argentina",
                         resultado: "2-3",
                         fecha: "25/06/2014",
-                        goles: "Nigeria: Musa(2), Argentina: Messi(2), Rojo",
+                        goles: "Nigeria: Musa(2); Argentina: Messi(2), Rojo",
                         highlights: "https://www.youtube.com/watch?v=9-8_rM9WcS8"
                     },
                     {
