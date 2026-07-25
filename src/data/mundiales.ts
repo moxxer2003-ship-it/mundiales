@@ -15976,7 +15976,7 @@ export const mundiales = [
         pelota: "Adidas Trionda",
         imagenPelota: "https://www.mideporte.pe/wp-content/uploads/2025/10/pelota-del-mundial-2026-adidas-trionda-club-5_JD8028_2.webp",
         campeon: "España",
-        imagenCampeon: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Flag_of_the_Kingdom_of_Spain.svg/250px-Flag_of_the_Kingdom_of_Spain.svg.png",
+        imagenCampeon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl6hZFBJbkGYdrGlK6_P3YWzmCW6AKZlDwi5diogQ2o24Zh7V98NQIDN_E&s=10",
         grupos: [
             {
                 grupo: "A",
