@@ -9744,7 +9744,7 @@ export const mundiales = [
         ],
         goleador: "Ronaldo Nazário (8)",
         imagenGoleador: "https://cdn.conmebol.com/wp-content/uploads/2016/09/r9.jpg",
-        promedioGol: 2.54,
+        promedioGol: 2.52,
         mascota: "Ato, Kaz y Nik",
         imagenMascota: "https://pbs.twimg.com/media/BawGTpHCAAEve5D.jpg",
         cancion: "https://www.youtube.com/watch?v=it7AEpMizjM",
