@@ -2464,7 +2464,7 @@ export const mundiales = [
                     {
                         local: "Chile",
                         visitante: "Alemania federal",
-                        resultado: "2-0",
+                        resultado: "0-2",
                         fecha: "06/06/1962",
                         goles: "Alemania Federal: Szymaniak, Seeler",
                         highlights: "https://www.youtube.com/watch?v=OsWmjgi1bI0"
