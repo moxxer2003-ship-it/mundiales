@@ -15963,7 +15963,7 @@ export const mundiales = [
         goleador: "Kylian Mbappé (10)",
         imagenGoleador: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Kylian_Mbappe_France_v_Senegal_16_June_2026-391.jpg",
         promedioGol: 2.96,
-        mascota: "Zayu, Maple y Clutch",
+        mascota: "Maple, Zayu y Clutch",
         imagenMascota: "https://historiadelosmundiales.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-25-at-23.20.51.jpeg",
         cancion: "https://www.youtube.com/watch?v=fcnDmrtj6Sk&list=RDfcnDmrtj6Sk&start_radio=1",
         album: "https://editorialberlin.com/wp-content/uploads/2026/04/1-album-tapa-dura.jpg",
