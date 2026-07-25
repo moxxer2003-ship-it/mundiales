@@ -1619,7 +1619,7 @@ export const mundiales = [
                 visitante: "Austria",
                 resultado: "5-7",
                 fecha: "26/06/1954",
-                goles: "Suiza: Körner(2), Wagner(3), Ocwirk, Probst; Suiza: Ballaman(2), Hügi(3)",
+                goles: "Suiza: Ballaman(2), Hügi(3); Austria: Körner(2), Wagner(3), Ocwirk, Probst",
                 highlights: "https://www.youtube.com/watch?v=T-BQWvSyIyI"
             },
             {
