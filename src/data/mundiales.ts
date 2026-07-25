@@ -7797,7 +7797,7 @@ export const mundiales = [
                 visitante: "Yugoslavia",
                 resultado: "1-2",
                 fecha: "26/06/1990",
-                goles: "España: Salinas; Yugoslavaia: Stojković(2)",
+                goles: "España: Salinas; Yugoslavia: Stojković(2)",
                 highlights: "https://www.youtube.com/watch?v=k3EK4JLImm0"
             },
             {
