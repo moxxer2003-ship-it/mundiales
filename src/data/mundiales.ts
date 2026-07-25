@@ -1177,7 +1177,7 @@ export const mundiales = [
                         visitante: "España",
                         resultado: "6-1",
                         fecha: "13/07/1950",
-                        goles: "Brasil: Ademir(2), Jair, Chico, Zizinho; España: Igoa",
+                        goles: "Brasil: Ademir(2), Jair, Chico(2), Zizinho; España: Igoa",
                         highlights: "https://www.youtube.com/watch?v=FGZA2BmuUbE"
                     },
                     {
