@@ -6128,7 +6128,7 @@ export const mundiales = [
                         visitante: "Brasil",
                         resultado: "3-2",
                         fecha: "05/07/1982",
-                        goles: "Italia: Rossi(3), Brasil: Sócrates, Falcão",
+                        goles: "Italia: Rossi(3); Brasil: Sócrates, Falcão",
                         highlights: "https://www.youtube.com/watch?v=8Ww52pHcZj0&t=10s"
                     },
                 ]
