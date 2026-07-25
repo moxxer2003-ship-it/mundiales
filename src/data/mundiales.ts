@@ -11095,7 +11095,7 @@ export const mundiales = [
                         visitante: "Serbia y Montenegro",
                         resultado: "6-0",
                         fecha: "16/06/2006",
-                        goles: "Argentina: Rodríguez(2), Cambiasso, Tévez, Messi",
+                        goles: "Argentina: Rodríguez(2), Cambiasso, Crespo, Tévez, Messi",
                         highlights: "https://www.youtube.com/watch?v=vfQggbACljg"
                     },
                     {
