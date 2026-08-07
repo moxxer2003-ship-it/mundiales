@@ -6261,7 +6261,7 @@ export const mundiales = [
         trasfondo: "Originalmente, el Mundial se iba a realizar en Colombia. Incluso, en la final de España 1982, el tablero electrónico del estadio Santiago Bernabéu tenía el mensaje: Nos vemos en Colombia 1986. Sin embargo, este país renunció como organizador el 25 de octubre de 1982, ya que el presidente Belisario Betancur consideraba que las exigencias de la FIFA eran inaceptables, además del enorme nivel de violencia en el país y la intromisión de los traficantes de drogas en el fútbol. México fue una sede de emergencia, que se decidió en 1983, durante una reunión del Comité Mundialista de la FIFA en Estocolmo.",
         datosCuriosos: [
             "México se convirtió en el primer país en ser sede de la Copa del Mundo más de una vez.",
-            "Uruguay recibió en fase de grupos su peor resultado en los mundiales, una derrota 6-1 ante Dinamarca. El entrenador charrúa, Omar Borras, tuvo que ser internado en el hospital por una gastritis derivada del estrés de la derrota.",
+            "Uruguay recibió en fase de grupos su peor resultado en los Mundiales, una derrota 6-1 ante Dinamarca. El entrenador charrúa, Omar Borrás, tuvo que ser internado en el hospital por una gastritis derivada del estrés de la derrota.",
             "El jugador de Irak Mahmoud Shaker escupió al árbitro colombiano Jesús Díaz Palacio en la derrota de su selección por 2-1 contra Bélgica, costándole una suspensión de un año."
         ],
         pelota: "Adidas Azteca",
