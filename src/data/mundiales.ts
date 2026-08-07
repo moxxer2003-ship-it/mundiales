@@ -12740,7 +12740,7 @@ export const mundiales = [
                 highlights: "https://www.youtube.com/watch?v=f5UhP7rqwvg"
             },
             {
-                local: "Países bajos",
+                local: "Países Bajos",
                 visitante: "Eslovaquia",
                 resultado: "2-1",
                 fecha: "28/06/2010",
@@ -12812,7 +12812,7 @@ export const mundiales = [
                 visitante: "Países Bajos",
                 resultado: "2-3",
                 fecha: "06/07/2010",
-                goles: "Uruguay: Forlán, Perira; Países Bajos: van Bronckhorst, Sneijder, Robben",
+                goles: "Uruguay: Forlán, Pereira; Países Bajos: van Bronckhorst, Sneijder, Robben",
                 highlights: "https://www.youtube.com/watch?v=7XLiYLj1Q7w"
             },
             {
