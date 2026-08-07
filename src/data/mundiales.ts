@@ -3164,7 +3164,7 @@ export const mundiales = [
                         pp: 2,
                         gf: 2,
                         gc: 2,
-                        dg: 0
+                        dg: +0
                     },
                     {
                         puesto: 4,
