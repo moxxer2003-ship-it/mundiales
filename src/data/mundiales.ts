@@ -10159,7 +10159,7 @@ export const mundiales = [
                         visitante: "Portugal",
                         resultado: "3-2",
                         fecha: "05/06/2002",
-                        goles: "Estados Unidos: O´brien, Costa(GEC), McBride; Portugal: Beto, Agoos(GEC)",
+                        goles: "Estados Unidos: O'Brien, Costa(GEC), McBride; Portugal: Beto, Agoos(GEC)",
                         highlights: "https://www.youtube.com/watch?v=WruEcrS2ZvA"
                     },
                     {
