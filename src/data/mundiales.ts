@@ -5255,7 +5255,7 @@ export const mundiales = [
         trasfondo: "España fue escogido como el organizador de la Copa del Mundo de 1982 en la misma reunión de la FIFA donde se decidió que Alemania Federal y Argentina sean los anfitriones de los Mundiales de 1974 y 1978 respectivamente. Para esta edición se determinó ampliar la cantidad de selecciones participantes de 16 a 24, añadiendo dos grupos más. Las dos primeras posiciones de cada grupo avanzaban a una segunda fase de grupos, donde había cuatro grupos de tres integrantes. Los ganadores de cada grupo se dirigían a las semifinales.",
         datosCuriosos: [
             "La semifinal entre Francia y Alemania Federal fue el primer partido en la historia de los Mundiales que se definió por penales, ya que empataron 3-3. La tanda fue ganada por Alemania Federal 5-4.",
-            "El goleador del mundial, Paolo Rossi, recién marcó su primer gol en su quinto partido, en el que metió un triplete en la victoria 3-2 sobre Brasil. Terminó el mundial con seis goles convertidos.",
+            "El goleador del Mundial, Paolo Rossi, recién marcó su primer gol en su quinto partido, en el que metió un triplete en la victoria 3-2 sobre Brasil. Terminó el Mundial con seis goles convertidos.",
             "El jeque de Kuwait, Fahid Al-Ahmad, bajó a la cancha en el partido entre Kuwait y Francia para protestar contra un gol de Francia que, según los jugadores de Kuwait, no debía valer porque escucharon un silbato desde la tribuna que les había hecho creer que el partido estaba pausado. Increíblemente, el árbitro soviético Miroslav Stupar anuló el gol, lo que no sirvió de mucho, ya que Francia ganó 4-1. "
         ],
         pelota: "Adidas Tango",
