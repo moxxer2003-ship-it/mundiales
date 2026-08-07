@@ -3500,7 +3500,7 @@ export const mundiales = [
                         local: "Uruguay",
                         visitante: "Israel",
                         resultado: "2-0",
-                        fecha: "02/061970",
+                        fecha: "02/06/1970",
                         goles: "Uruguay: Maneiro, Mugica",
                         highlights: "https://www.youtube.com/watch?v=LTVz4Y_1Xnw"
                     },
