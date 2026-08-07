@@ -2252,7 +2252,7 @@ export const mundiales = [
         cancion: "https://www.youtube.com/watch?v=w7HIpy73vP0&list=RDw7HIpy73vP0&start_radio=1",
         trasfondo: "En el congreso de la FIFA celebrado en Lisboa en 1956, se prefirió la candidatura de Chile como anfitrión del Mundial de 1962 sobre la de Argentina. En 1960, un gran terremoto sacudió el país, poniendo en duda la organización. Carlos Dittborn, el presidente de la Federación Chilena, defendió la localía de su país, mencionando que debían tener el Mundial porque no tenían nada. Lideró la reconstrucción de estadios y la edificación de uno completamente nuevo en Santiago. Dittborn murió un mes antes del torneo y el estadio de Arica fue bautizado con su nombre. Como información extra, este fue el primer Mundial que tuvo una canción oficial.",
         datosCuriosos: [
-            "Fue el único Mundial en la historia donde se registró un gol olímpico: El colombiano Marcos Coll marcó directamente desde el tiro de esquina en el empate 4-4 de su selección ante Unión Soviética.",
+            "Fue el único Mundial en la historia donde se registró un gol olímpico: el colombiano Marcos Coll marcó directamente desde el tiro de esquina en el empate 4-4 de su selección ante Unión Soviética.",
             "Colombia eliminó a Perú en las Eliminatorias. Los organizadores esperaban contar con Perú en el Mundial, por lo que lo habían pre-asignado al grupo que ocuparía la sede de Arica, para que gran cantidad de peruanos pudieran asistir. Al final, Colombia ocupó ese puesto.",
             "Todos los Mundiales anteriores superaron el promedio de los tres goles por partido. Este Mundial no alcanzó ese promedio, y ningún Mundial siguiente lo hizo tampoco."
         ],
