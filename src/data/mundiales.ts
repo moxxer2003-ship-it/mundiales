@@ -9823,7 +9823,7 @@ export const mundiales = [
                         local: "Francia",
                         visitante: "Senegal",
                         resultado: "0-1",
-                        fecha: "31/05//2002",
+                        fecha: "31/05/2002",
                         goles: "Senegal: Bouba Diop",
                         highlights: "https://www.youtube.com/watch?v=dZzRglwHA7g"
                     },
