@@ -16818,7 +16818,7 @@ export const mundiales = [
                     },
                     {
                         local: "España",
-                        visitante: "Arabia Sudita",
+                        visitante: "Arabia Saudita",
                         resultado: "4-0",
                         fecha: "21/06/2026",
                         goles: "España: Yamal, Oyarzabal(2), Tambakti(GEC)",
@@ -16842,7 +16842,7 @@ export const mundiales = [
                     },
                     {
                         local: "Cabo Verde",
-                        visitante: "Arabia Sudita",
+                        visitante: "Arabia Saudita",
                         resultado: "0-0",
                         fecha: "26/06/2026",
                         goles: "No hubo",
