@@ -1697,7 +1697,7 @@ export const mundiales = [
         promedioGol: 3.60,
         trasfondo: "Suecia fue escogida como el país organizador del Mundial de 1958 durante el congreso de la FIFA en Río de Janeiro en 1950. Pese a algunas disputas posteriores para rotar el continente del torneo, ya que el Mundial de 1954 también se jugó en Europa, el país escandinavo sostuvo la sede gracias a su excelente infraestructura. Se repitió el formato de los grupos de 1954, con el único cambio de que ahora sí se enfrentaban los cuatro países que conformaban el grupo. El partido de desempate en caso de igualdad de puntos se mantuvo.",
         datosCuriosos: [
-            "Este mundial fue el único en el que los 4 países del Reino Unido (Inglaterra, Escocia, Gales e Irlanda del Norte), participaron. Inglaterra y Escocia quedaron eliminados en primera fase, mientras que Gales e Irlanda del Norte alcanzaron los cuartos de final. ",
+            "Este Mundial fue el único en el que los 4 países del Reino Unido (Inglaterra, Escocia, Gales e Irlanda del Norte), participaron. Inglaterra y Escocia quedaron eliminados en primera fase, mientras que Gales e Irlanda del Norte alcanzaron los cuartos de final. ",
             "Argentina sufrió su peor goleada en los mundiales, una derrota 6-1 frente a Checoslovaquia. El argentino José Sanfilippo confesó que el triunfalismo jugó en contra de los albicelestes.",
             "Brasil e Inglaterra protagonizaron el primer 0-0 en la historia de los mundiales el 11 de junio, en Gotemburgo."
         ],
