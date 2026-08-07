@@ -1216,7 +1216,7 @@ export const mundiales = [
         trasfondo: "Suiza fue elegida como la anfitriona del Mundial de 1954 en el congreso de la FIFA en la ciudad de Luxemburgo en 1946, en la misma reunión donde se designó a Brasil como el organizador del Mundial de 1950. Para este quinto Mundial, Alemania ya había sido readmitida y Austria podía volver a competir. El Comité de la Copa del Mundo diseñó un nuevo sistema eliminatorio: dividieron a los 16 equipos en cuatro grupos de cuatro, donde había dos cabezas de serie que no se enfrentaban entre sí. También, se determinó que los partidos que quedaban empatados irían a un tiempo extra y si al terminar la fase de grupos, había dos selecciones con la misma cantidad de puntos, habría un partido de desempate entre ellas.",
         datosCuriosos: [
             "El primer partido mundialista de la historia en ser transmitido por televisión fue el encuentro entre las selecciones de Yugoslavia y Francia, que ganó Yugoslavia 1-0, el 16 de junio de 1954, a través de la cadena Eurovisión.",
-            "El autor de dos goles en la final contra Hungría, el alemán Helmut Rahn, fue llamado por el entrenador Joseph Herbeger cuando el mundial ya había iniciado. Le enviaron un telegrama mientras estaba de gira con su equipo Rot Weis en Montevideo.",
+            "El autor de dos goles en la final contra Hungría, el alemán Helmut Rahn, fue llamado por el entrenador Joseph Herbeger cuando el Mundial ya había iniciado. Le enviaron un telegrama mientras estaba de gira con su equipo Rot-Weiss en Montevideo.",
             "De los 26 partidos del mundial, 11 acabaron en goleada. Así, Suiza 1954 es el Mundial con el promedio de goleadas más alto de la historia."
         ],
         pelota: "Swiss World Champion",
