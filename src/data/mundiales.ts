@@ -2325,7 +2325,7 @@ export const mundiales = [
                         visitante: "Colombia",
                         resultado: "2-1",
                         fecha: "30/05/1962",
-                        goles: "Uruguay: Sassia, Cubilla; Colombia: Zulluaga",
+                        goles: "Uruguay: Sassia, Cubilla; Colombia: Zuluaga",
                         highlights: "https://www.youtube.com/watch?v=BQ_VQQS2_H4"
                     },
                     {
