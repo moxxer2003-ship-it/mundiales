@@ -7898,7 +7898,7 @@ export const mundiales = [
         trasfondo: "Estados Unidos fue seleccionado como el anfitrión del decimoquinto Mundial de 1994 en una reunión en Zúrich en 1988. El objetivo principal de esta decisión fue expandir el mercado y desarrollar el deporte en el país norteamericano, un país sin tradición futbolística previa, dominado por otros deportes. Se creó la regla de que el portero no podía tomar el balón con las manos después de recibir un pase de los pies de su compañero, tratando de evitar los partidos ultradefensivos que se vieron en la edición pasada. También, la FIFA implementó el sistema de otorgar tres puntos al ganador de un partido, en lugar de dos, como era anteriormente.",
         datosCuriosos: [
             "Fue el primer Mundial donde los jugadores llevaban su nombre en la espalda de su camiseta.",
-            "La FIFA aplicó por primera vez una sanción tras tomar como prueba una filmación. El jugador italiano Mario Tassotti fue suspendido por ocho fechas por una agresión al español Luis Enrique, aunque no había sido expulsado por el árbitro húngaro Sandor Puhl.",
+            "La FIFA aplicó por primera vez una sanción tras tomar como prueba una filmación. El jugador italiano Mario Tassotti fue suspendido por ocho fechas por una agresión al español Luis Enrique, aunque no había sido expulsado por el árbitro húngaro Sándor Puhl.",
             "El mayor escándalo del Mundial fue el dopaje positivo de Diego Armando Maradona, lo que lo expulsó del torneo. Los argentinos culparon a todos, desde la FIFA hasta la enfermera que acompañó a Maradona al control."
         ],
         pelota: "Adidas Questra",
