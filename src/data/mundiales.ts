@@ -14927,7 +14927,7 @@ export const mundiales = [
         goleador: "Kylian Mbappé (8)",
         imagenGoleador: "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1308502-francia-avanza-a-paso-de-campeon-de-la-mano-de-mbappe.jpg?c=16x9&q=w_1280,c_fill",
         promedioGol: 2.69,
-        mascota: "La´eeb",
+        mascota: "La'eeb",
         imagenMascota: "https://static.wikia.nocookie.net/mascots/images/d/dc/La%27eeb.png/revision/latest/thumbnail/width/360/height/360?cb=20220416111923",
         cancion: "https://www.youtube.com/watch?v=vyDjFVZgJoo",
         album: "https://http2.mlstatic.com/D_NQ_NP_870660-MLU54985629929_052023-O.webp",
@@ -15011,7 +15011,7 @@ export const mundiales = [
                     },
                     {
                         local: "Senegal",
-                        visitante: "Países bajos",
+                        visitante: "Países Bajos",
                         resultado: "0-2",
                         fecha: "21/11/2022",
                         goles: "Países Bajos: Gakpo, Klaassen",
