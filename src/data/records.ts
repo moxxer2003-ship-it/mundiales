@@ -1,7 +1,7 @@
 export const records = {
     paísConMásMundialesDisputados: "Brasil(23: único país en disputar todas las Copas del Mundo)",
     paísConMásMundialesGanados: "Brasil(5: 1958, 1962, 1970, 1994 y 2002)",
-    paisesConMásMundialesGanadosDeFormaConsecutiva: "Italia y Brasil (2)",
+    paísesConMásMundialesGanadosDeFormaConsecutiva: "Italia y Brasil (2)",
     paísConMásPartidosJugados: "Brasil(119)",
     paísConMásPartidosGanados: "Brasil(79)",
     paísConMásGoles: "Brasil(247)",
@@ -24,7 +24,7 @@ export const records = {
     jugadorMásJovenEnJugarUnMundial: " Whiteside (17 años, 1 mes y 10 días)",
     jugadorMásJovenEnAnotarGol: "Pelé (17 años, 7 meses y 29 días)",
     arquerosConMásGolesRecibidos: "Carbajal y Al-Deayea (25)",
-    arqueroConMásMinutosSinRecbirUnGol: "Simón (649)",
+    arqueroConMásMinutosSinRecibirUnGol: "Simón (649)",
     directorTécnicoConMásMundialesDirigidos: "Parreira (6)",
     directorTécnicoConMásPartidosDirigidos: "Deschamps (27)",
     directorTécnicoConMásMundialesGanados: "Pozzo (2)",
