@@ -10790,7 +10790,7 @@ export const mundiales = [
         datosCuriosos: [
             "Este es el único Mundial en el que no hubo ni un solo triplete, ni un solo jugador marcó tres goles en un mismo partido.",
             "Se registró el par de goles más agónico en la historia de los Mundiales. Fabio Grosso y Alessandro Del Piero marcaron a los 119 y 121 minutos en la victoria de Italia 2-0 sobre Alemania en semifinales.",
-            "Fue el primer Mundial del portugés Cristiano Ronaldo, del argentino Lionel Messi y del mexicano Guillermo Ochoa, los jugadores con más participaciones mundialistas en la historia, con seis ediciones. Sin embargo, Ronaldo y Messi son los únicos que han jugado en seis Mundiales, ya que Ochoa formó parte del plantel de México del 2006 y 2010, pero no disputó minutos hasta el Mundial de Brasil 2014."
+            "Fue el primer Mundial del portugués Cristiano Ronaldo, del argentino Lionel Messi y del mexicano Guillermo Ochoa, los jugadores con más participaciones mundialistas en la historia, con seis ediciones. Sin embargo, Ronaldo y Messi son los únicos que han jugado en seis Mundiales, ya que Ochoa formó parte del plantel de México del 2006 y 2010, pero no disputó minutos hasta el Mundial de Brasil 2014."
         ],
         pelota: "Adidas Teamgeist",
         imagenPelota: "https://pbs.twimg.com/media/EVY8O6vXkAI7jKD.jpg",
