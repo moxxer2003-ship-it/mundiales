@@ -1123,7 +1123,7 @@ export const mundiales = [
                         dg: +10
                     },
                     {
-                        puesto: 2,
+                        puesto: 3,
                         pais: "Suecia",
                         puntos: 2,
                         pj: 3,
@@ -1135,7 +1135,7 @@ export const mundiales = [
                         dg: -5
                     },
                     {
-                        puesto: 2,
+                        puesto: 4,
                         pais: "España",
                         puntos: 1,
                         pj: 3,
