@@ -9831,7 +9831,7 @@ export const mundiales = [
                         local: "Uruguay",
                         visitante: "Dinamarca",
                         resultado: "1-2",
-                        fecha: "01/06//2002",
+                        fecha: "01/06/2002",
                         goles: "Uruguay: Rodríguez; Dinamarca: Tomasson(2)",
                         highlights: "https://www.youtube.com/watch?v=9bRRclQTzZE"
                     },
@@ -9839,7 +9839,7 @@ export const mundiales = [
                         local: "Dinamarca",
                         visitante: "Senegal",
                         resultado: "1-1",
-                        fecha: "06/06//2002",
+                        fecha: "06/06/2002",
                         goles: "Dinamarca: Tomasson; Senegal: Diao",
                         highlights: "https://www.youtube.com/watch?v=2MXGmsxidT4"
                     },
@@ -9847,7 +9847,7 @@ export const mundiales = [
                         local: "Francia",
                         visitante: "Uruguay",
                         resultado: "0-0",
-                        fecha: "06/06//2002",
+                        fecha: "06/06/2002",
                         goles: "No hubo",
                         highlights: "https://www.youtube.com/watch?v=7nApqrBr0u4"
                     },
@@ -9855,7 +9855,7 @@ export const mundiales = [
                         local: "Dinamarca",
                         visitante: "Francia",
                         resultado: "2-0",
-                        fecha: "11/06//2002",
+                        fecha: "11/06/2002",
                         goles: "Dinamarca: Rommedahl, Tomasson",
                         highlights: "https://www.youtube.com/watch?v=QIgTdGi3LjE"
                     },
@@ -9863,7 +9863,7 @@ export const mundiales = [
                         local: "Senegal",
                         visitante: "Uruguay",
                         resultado: "3-3",
-                        fecha: "11/06//2002",
+                        fecha: "11/06/2002",
                         goles: "Senegal: Fadiga, Bouba Diop(2); Uruguay: Morales, Forlán, Recoba",
                         highlights: "https://www.youtube.com/watch?v=yBDRLIZfRdk"
                     },
