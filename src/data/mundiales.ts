@@ -11293,7 +11293,7 @@ export const mundiales = [
                 ],
                 partidos: [
                     {
-                        local: "Estados unidos",
+                        local: "Estados Unidos",
                         visitante: "República Checa",
                         resultado: "0-3",
                         fecha: "12/06/2006",
