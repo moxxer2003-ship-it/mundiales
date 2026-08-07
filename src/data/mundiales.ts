@@ -3339,7 +3339,7 @@ export const mundiales = [
                 posiciones: [
                     {
                         puesto: 1,
-                        pais: "Unión Sóviética",
+                        pais: "Unión Soviética",
                         puntos: 5,
                         pj: 3,
                         pg: 2,
