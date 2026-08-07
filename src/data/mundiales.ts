@@ -3399,7 +3399,7 @@ export const mundiales = [
                         local: "Bélgica",
                         visitante: "El Salvador",
                         resultado: "3-0",
-                       fecha: "/0306/1970",
+                       fecha: "03/06/1970",
                         goles: "Bélgica: van Moer(2), Lambert",
                         highlights: "https://www.youtube.com/watch?v=hY2YabQUT_c"
                     },
