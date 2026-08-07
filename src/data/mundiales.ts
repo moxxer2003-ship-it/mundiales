@@ -2785,7 +2785,7 @@ export const mundiales = [
         cancion: "https://www.youtube.com/watch?v=akdJkjGa0qY&list=RDakdJkjGa0qY&start_radio=1",
         trasfondo: "En 1960, durante el congreso de la FIFA en Roma, se eligió a Inglaterra como sede de la Copa del Mundo de 1966, superando la candidatura de Alemania Federal y de España. Se creó la primera mascota oficial de los Mundiales, que fue un simpático león llamado Willie que tenía una camiseta con la bandera del Reino Unido. La Copa de la FIFA fue robada el 20 de marzo de 1966. El trofeo fue hallado por un perro llamado Pickles, que la desenterró de un jardín donde había sido escondida. El dueño de Pickles, un comerciante, recibió 5 mil libras esterlinas como recompensa.",
         datosCuriosos: [
-            "Tofiq Bakhrdmov, el juez asistente que convalidó el conocido gol fantasma, era de Azerbaiyán. Cuando Inglaterra viajó a este país para jugar un partido de Eliminatorias en 2005, varios hinchas ingleses llevaron polos con la inscripción: BAKHRDMOV - COX SAG ULUN. Esto significa, MUCHAS GRACIAS.",
+            "Tofiq Bəhramov, el juez asistente que convalidó el conocido gol fantasma, era de Azerbaiyán. Cuando Inglaterra viajó a este país para jugar un partido de Eliminatorias en 2005, varios hinchas ingleses llevaron polos con la inscripción: BAKHRDMOV - COX SAG ULUN. Esto significa, MUCHAS GRACIAS.",
             "Corea del Norte derrotó 1-0 a Italia, cuyos jugadores se excusaron alegando que los norcoreanos suplantaban sus identidades para burlar al árbitro francés Pierre Schwinte, aprovechando su parecido físico.",
             "Este fue el primer mundial en el que se realizaron controles antidopaje."
         ],
