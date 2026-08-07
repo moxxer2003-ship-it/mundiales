@@ -10260,7 +10260,7 @@ export const mundiales = [
                         visitante: "Camerún",
                         resultado: "1-1",
                         fecha: "01/06/2002",
-                        goles: "Irlanda: Holland; Camerún: M´Boma",
+                        goles: "Irlanda: Holland; Camerún: M'Boma",
                         highlights: "https://www.youtube.com/watch?v=as4_UwNGADM"
                     },
                     {
