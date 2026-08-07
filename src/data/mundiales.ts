@@ -7822,7 +7822,7 @@ export const mundiales = [
                 local: "Italia",
                 visitante: "Irlanda",
                 resultado: "1-0",
-                fecha: "21/06/1986",
+                fecha: "30/06/1986",
                 goles: "Italia: Schillaci",
                 highlights: "https://www.youtube.com/watch?v=ehB89vb5v5Y"
             },
