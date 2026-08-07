@@ -2787,7 +2787,7 @@ export const mundiales = [
         datosCuriosos: [
             "Tofiq Bəhramov, el juez asistente que convalidó el conocido gol fantasma, era de Azerbaiyán. Cuando Inglaterra viajó a este país para jugar un partido de Eliminatorias en 2005, varios hinchas ingleses llevaron polos con la inscripción: BAHRAMOV - ÇOX SAĞ OLUN. Esto significa, MUCHAS GRACIAS.",
             "Corea del Norte derrotó 1-0 a Italia, cuyos jugadores se excusaron alegando que los norcoreanos suplantaban sus identidades para burlar al árbitro francés Pierre Schwinte, aprovechando su parecido físico.",
-            "Este fue el primer mundial en el que se realizaron controles antidopaje."
+            "Este fue el primer Mundial en el que se realizaron controles antidopaje."
         ],
         pelota: "Slazenger Challenge 4-Star",
         imagenPelota: "https://upload.wikimedia.org/wikipedia/commons/1/19/Challenge_4-star-1966.jpg",
