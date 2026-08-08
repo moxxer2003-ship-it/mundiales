@@ -125,6 +125,23 @@ function Home() {
                     onClose={() => setMundialSeleccionado(null)}
                 />
             )}
+
+            <footer className="footer-fuentes">
+                <div className="footer-content">
+                    <h3>Fuentes Consultadas</h3>
+                    <ul className="lista-fuentes">
+                        <li>
+                            <em>Copa Mundial de la FIFA Brasil 2014</em>. (2014). Editorial Santillana.
+                        </li>
+                        <li>
+                            Glanville, B. (2014). <em>Historia de los mundiales de fútbol</em>. T&B Editores.
+                        </li>
+                        <li>
+                            Peredo, D. (2014). <em>Las caletas de los mundiales</em>. Editorial Planeta.
+                        </li>
+                    </ul>
+                </div>
+            </footer>
         </div>
     );
 }
