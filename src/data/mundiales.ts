@@ -9735,7 +9735,7 @@ export const mundiales = [
     {
         year: "2002",
         anfitrion: "Corea del Sur, Japón",
-        imagenAnfitrion: "https://png.pngtree.com/background/20250507/original/pngtree-japan-south-korea-flags-background-together-picture-image_16506017.jpg",
+        imagenAnfitrion: "https://cdn.internationalpress.jp/2023/03/Banderas-Japon-Corea-del-Sur.jpg",
         primerosPuestos: [
             "Brasil",
             "Alemania",
